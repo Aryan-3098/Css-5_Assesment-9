@@ -142,8 +142,7 @@ body{
 .box:hover{
     width: 18rem;
     height: 18rem;
-    position: relative;
-    bottom: 1rem;
+    transform: translateY(-10px);
 }
 #exp_btn:hover{
     font-size: 25px;
